@@ -1,5 +1,5 @@
 let level
-let winningBalance = rank(15, 10)
+let winningBalance = rank(15, 10) //example values
 
 function rank(victories, defeats){
     return victories - defeats
